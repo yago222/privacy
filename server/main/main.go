@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/kallydev/privacy/service"
+	"github.com/yago222/privacy/service"
 	"log"
 )
 
